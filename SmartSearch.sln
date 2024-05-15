@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSearch", "SmartSearch\SmartSearch.csproj", "{6CB2CDEA-8236-46A5-9E64-F4EBBC781B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB2CDEA-8236-46A5-9E64-F4EBBC781B46}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB2CDEA-8236-46A5-9E64-F4EBBC781B46}.Debug|x64.Build.0 = Debug|x64
+		{6CB2CDEA-8236-46A5-9E64-F4EBBC781B46}.Release|x64.ActiveCfg = Release|x64
+		{6CB2CDEA-8236-46A5-9E64-F4EBBC781B46}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F65C68F-6BB3-4868-B6CC-18279A607598}
+	EndGlobalSection
+EndGlobal
